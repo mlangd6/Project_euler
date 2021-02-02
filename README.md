@@ -1,2 +1,3 @@
 # Project_euler
-You can find me on https://projecteuler.net as mlangd
+Here are some problems discuting on https://projecteuler.net 
+The objective of this repository is to write algorithms with different languages.
